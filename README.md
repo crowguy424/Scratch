@@ -1,7 +1,7 @@
 Made a sort of scatch card card with sheer HTML, CSS and JS that contains a surprise inside
 
 
-##Features
+## Features
 
 **Scratch**
 
@@ -9,11 +9,11 @@ Made a sort of scatch card card with sheer HTML, CSS and JS that contains a surp
 
 **Responsive**
 
-##Feedback
+## Feedback
 
 Constructive Criticism Heavily Appreciated
 
-##License
+## License
 
 Open Source all the way
 
